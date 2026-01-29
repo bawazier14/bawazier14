@@ -1,4 +1,4 @@
-## Hi there 👋
+![bawazier14](img/github-header-banner.png)
 
 <!--
 **bawazier14/bawazier14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,laravel,flask,django,next,,mysql,postgresql,mongodb,,,docker,git&perline=5)](https://skillicons.dev)
+
+##### Contact Me
+![nabielbawazier17@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![[Instagram](https://www.instagram.com/bawazier._)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![nabielbawazier17@gmail.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
