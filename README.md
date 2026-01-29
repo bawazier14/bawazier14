@@ -22,18 +22,30 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,laravel,flask,django,next,,mysql,postgresql,mongodb,,,docker,git&perline=5)](https://skillicons.dev)
 
 ##### Contact Me
-![https://mail.google.com/mail/?view=cm&fs=1&to=nabielbawazier17@gmail.com&su=Halo&body=
-](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.instagram.com/bawazier._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![nabielbawazier17@gmail.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<div align="left">
+  <a href="https://www.instagram.com/bawazier._" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nabielbawazier17@gmail.com&su=Halo&body=" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-
-![Bawazier14 GitHub stats](https://github-readme-stats.vercel.app/api?username=bawazier14)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bawazier14&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bawazier14/bawazier14/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bawazier14/bawazier14/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bawazier14/bawazier14/output/pacman-contribution-graph.svg">
 </picture>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/kucingmabur">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kucingmabur&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
