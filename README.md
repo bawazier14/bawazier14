@@ -48,11 +48,10 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bawazier14/bawazier14/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bawazier14/bawazier14/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bawazier14/bawazier14/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/bawazier14/bawazier14/output/pacman-contribution-graph.svg">
 </picture>
-
 <div align="center">
-  <a href="https://open.spotify.com/user/kucingmabur">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31prdcuw6tvn7dmgsythu34qjyyi?si=E-PJedOUQW2PBn45UOJhQw&nd=1&dlsi=a562e56c463e4316&count=3&unique=true" alt="Spotify recently played"  />
+  <a href="https://music.youtube.com/channel/YOUR_CHANNEL_ID">
+    <img src="https://yt-music-readme.vercel.app/api/recently-played?user_id=@manusa-p1i&count=3" />
   </a>
 </div>
