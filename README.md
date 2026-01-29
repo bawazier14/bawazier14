@@ -29,7 +29,9 @@ Here are some ideas to get you started:
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nabielbawazier17@gmail.com&su=Halo&body=" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/your-profile-url" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 
@@ -51,6 +53,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://open.spotify.com/user/kucingmabur">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kucingmabur&count=3&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31prdcuw6tvn7dmgsythu34qjyyi?si=E-PJedOUQW2PBn45UOJhQw&nd=1&dlsi=a562e56c463e4316&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>

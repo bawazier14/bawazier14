@@ -1,0 +1,17 @@
+name: Pac-Man
+
+on:
+  schedule:
+    - cron: '30 0 * * *' # Runs at 12:30 AM UTC every day
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: thaibaults/pacman-action@v1
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output # The branch where you want to push the assets
