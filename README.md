@@ -37,6 +37,11 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=bawazier14&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bawazier14&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawazier14&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bawazier14/bawazier14/output/pacman-contribution-graph-dark.svg">
