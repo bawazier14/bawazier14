@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱 I’m currently learning
-[![My Skills](https://skillicons.dev/icons?i=go,kubernetes,webhook,next,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,kubernetes,n8n,next,postman)](https://skillicons.dev)
 
 ##### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,laravel,flask,django,next,,mysql,postgresql,mongodb,,,docker,git&perline=5)](https://skillicons.dev)
