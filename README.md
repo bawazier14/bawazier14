@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱 I’m currently learning
-[![My Skills](https://skillicons.dev/icons?i=go,kubernetes,n8n,next,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,kubernetes,next,postman)](https://skillicons.dev)
 
 ##### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,laravel,flask,django,next,,mysql,postgresql,mongodb,,,docker,git&perline=5)](https://skillicons.dev)
@@ -34,24 +34,3 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bawazier14&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bawazier14&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawazier14&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bawazier14/bawazier14/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bawazier14/bawazier14/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/bawazier14/bawazier14/output/pacman-contribution-graph.svg">
-</picture>
-<div align="center">
-  <a href="https://music.youtube.com/channel/YOUR_CHANNEL_ID">
-    <img src="https://yt-music-readme.vercel.app/api/recently-played?user_id=@manusa-p1i&count=3" />
-  </a>
-</div>
